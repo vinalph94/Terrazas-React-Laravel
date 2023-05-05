@@ -1,0 +1,17 @@
+/* Vinod Alphonse P K –1002057501 , Sai Subhash Yalamadala –1002031729
+ Ravi Ailani –1002026213, Yashasvi Matta –1002091134
+Adithya Venkatesh –1002032198 */
+
+.white {
+  color: white;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.extender {
+  flex-grow: 1;
+}
